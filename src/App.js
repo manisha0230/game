@@ -45,7 +45,7 @@ export default function App() {
             );
           })}
         </div>
-        <div class="score">{count}</div>
+        <div class="score">Score is :{count}</div>
       </div>
     </div>
   );
